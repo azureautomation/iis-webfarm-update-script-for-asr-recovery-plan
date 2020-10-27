@@ -1,0 +1,20 @@
+{
+    "Author": "Samhita Kulkarni[MSFT]",
+    "ContentSize": 2067,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/iis-webfarm-update-script-for-asr-recovery-plan/master/IIS-Update-WebFarm.ps1",
+    "DownloadCount": 537,
+    "Id": "IIS-Web-Farm-update-script-73189a50",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 535,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script updates the IP address of failed over IIS server in failover ARR virtual machine.",
+    "Title": "IIS Web-Farm update script for ASR Recovery Plan",
+    "UpdatedDate": "2017-3-23T00:00:00",
+    "Url": "https://github.com/azureautomation/iis-webfarm-update-script-for-asr-recovery-plan",
+    "UserTags": ""
+}
